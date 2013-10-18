@@ -1,6 +1,7 @@
-.o
-.exe
-.~
-.html
-.jar
-.bak
+*.o
+*.bak
+*.html
+*.jar
+*.exe
+*~
+
